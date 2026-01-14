@@ -1,14 +1,13 @@
 <h1 align="center">
-    Hi 👋, I'm Ishfaq Rahman
+  Hi 👋, I'm Ishfaq Rahman
 </h1>
 
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishfaq9&langs_count=10&theme=radical&layout=compact" height="300" width="350"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishfaq9&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
 
 <hr/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
