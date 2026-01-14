@@ -1,11 +1,5 @@
 <h1 align="center">
   Hi 👋, I'm Ishfaq Rahman
-</h1>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishfaq9&layout=compact&theme=radical)
-
-<hr/>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
